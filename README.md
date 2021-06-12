@@ -1,3 +1,3 @@
-# jersey
+# Jersey
 
-This is the code for analyzing the csv output file from the Jersey Qualtrics study.
+This is the code for analyzing the CSV output file from the Jersey Pavolvia study.
